@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Iiweess" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:navigationBarColor">@color/background</item>
+    </style>
+
+    <style name="Theme.Iiweess" parent="Base.Theme.Iiweess"/>
+</resources>
